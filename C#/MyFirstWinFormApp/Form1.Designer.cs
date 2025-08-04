@@ -29,91 +29,101 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
-            button1 = new Button();
+            Login = new Button();
             txtUsername = new TextBox();
-            label1 = new Label();
-            label2 = new Label();
+            UserName = new Label();
+            Password = new Label();
             txtPassword = new TextBox();
             pictureBox1 = new PictureBox();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
-            // button1
+            // Login
             // 
-            button1.Image = (Image)resources.GetObject("button1.Image");
-            button1.ImageAlign = ContentAlignment.MiddleLeft;
-            button1.Location = new Point(180, 136);
-            button1.Name = "button1";
-            button1.Size = new Size(97, 44);
-            button1.TabIndex = 0;
-            button1.Text = "Login";
-            button1.TextAlign = ContentAlignment.MiddleRight;
-            button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click;
+            Login.BackColor = Color.Snow;
+            Login.Image = (Image)resources.GetObject("Login.Image");
+            Login.ImageAlign = ContentAlignment.MiddleLeft;
+            Login.Location = new Point(382, 279);
+            Login.Margin = new Padding(6);
+            Login.Name = "Login";
+            Login.Size = new Size(206, 90);
+            Login.TabIndex = 0;
+            Login.Text = "Login";
+            Login.TextAlign = ContentAlignment.MiddleRight;
+            Login.UseVisualStyleBackColor = false;
+            Login.Click += button1_Click;
             // 
             // txtUsername
             // 
-            txtUsername.Location = new Point(106, 34);
+            txtUsername.Location = new Point(225, 70);
+            txtUsername.Margin = new Padding(6);
             txtUsername.Name = "txtUsername";
-            txtUsername.Size = new Size(269, 27);
+            txtUsername.Size = new Size(567, 47);
             txtUsername.TabIndex = 1;
             // 
-            // label1
+            // UserName
             // 
-            label1.AutoSize = true;
-            label1.Location = new Point(21, 37);
-            label1.Name = "label1";
-            label1.Size = new Size(78, 20);
-            label1.TabIndex = 2;
-            label1.Text = "UserName";
+            UserName.AutoSize = true;
+            UserName.Location = new Point(45, 76);
+            UserName.Margin = new Padding(6, 0, 6, 0);
+            UserName.Name = "UserName";
+            UserName.Size = new Size(157, 41);
+            UserName.TabIndex = 2;
+            UserName.Text = "UserName";
+            UserName.Click += label1_Click;
             // 
-            // label2
+            // Password
             // 
-            label2.AutoSize = true;
-            label2.Location = new Point(24, 89);
-            label2.Name = "label2";
-            label2.Size = new Size(70, 20);
-            label2.TabIndex = 3;
-            label2.Text = "Password";
+            Password.AutoSize = true;
+            Password.Location = new Point(51, 182);
+            Password.Margin = new Padding(6, 0, 6, 0);
+            Password.Name = "Password";
+            Password.Size = new Size(143, 41);
+            Password.TabIndex = 3;
+            Password.Text = "Password";
             // 
             // txtPassword
             // 
-            txtPassword.Location = new Point(107, 88);
+            txtPassword.Location = new Point(227, 180);
+            txtPassword.Margin = new Padding(6);
             txtPassword.Name = "txtPassword";
             txtPassword.PasswordChar = '*';
-            txtPassword.Size = new Size(268, 27);
+            txtPassword.Size = new Size(565, 47);
             txtPassword.TabIndex = 4;
-            txtPassword.TextAlign = HorizontalAlignment.Center;
             // 
             // pictureBox1
             // 
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(381, 34);
+            pictureBox1.Location = new Point(810, 70);
+            pictureBox1.Margin = new Padding(6);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(79, 81);
+            pictureBox1.Size = new Size(168, 166);
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox1.TabIndex = 5;
             pictureBox1.TabStop = false;
             // 
             // Form1
             // 
-            AcceptButton = button1;
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AcceptButton = Login;
+            AutoScaleDimensions = new SizeF(17F, 41F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(482, 197);
+            BackColor = SystemColors.MenuHighlight;
+            ClientSize = new Size(1024, 404);
             Controls.Add(pictureBox1);
             Controls.Add(txtPassword);
-            Controls.Add(label2);
-            Controls.Add(label1);
+            Controls.Add(Password);
+            Controls.Add(UserName);
             Controls.Add(txtUsername);
-            Controls.Add(button1);
+            Controls.Add(Login);
             FormBorderStyle = FormBorderStyle.FixedSingle;
             Icon = (Icon)resources.GetObject("$this.Icon");
+            Margin = new Padding(6);
             MaximizeBox = false;
             MinimizeBox = false;
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "My Smart App";
+            Text = "Lock screen";
+            Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();
@@ -121,10 +131,10 @@
 
         #endregion
 
-        private Button button1;
+        private Button Login;
         private TextBox txtUsername;
-        private Label label1;
-        private Label label2;
+        private Label UserName;
+        private Label Password;
         private TextBox txtPassword;
         private PictureBox pictureBox1;
     }
