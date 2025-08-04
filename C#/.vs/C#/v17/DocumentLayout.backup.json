@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alhof\\OneDrive\\Desktop\\DEPI\\C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64C67E9C-9A57-48DE-9553-CCDBC0C045D4}|Task4\\Task4.csproj|c:\\users\\alhof\\onedrive\\desktop\\depi\\c#\\task4\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C67E9C-9A57-48DE-9553-CCDBC0C045D4}|Task4\\Task4.csproj|solutionrelative:task4\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C67E9C-9A57-48DE-9553-CCDBC0C045D4}|Task4\\Task4.csproj|c:\\users\\alhof\\onedrive\\desktop\\depi\\c#\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C67E9C-9A57-48DE-9553-CCDBC0C045D4}|Task4\\Task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D746315-B6AD-4B69-97DA-72255215515D}|Task1\\Task1.csproj|c:\\users\\alhof\\onedrive\\desktop\\depi\\c#\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D746315-B6AD-4B69-97DA-72255215515D}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871BDBE1-0CFA-423C-96F8-E43EBE14A3D0}|Task3\\Task3.csproj|c:\\users\\alhof\\onedrive\\desktop\\depi\\c#\\task3\\task3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{871BDBE1-0CFA-423C-96F8-E43EBE14A3D0}|Task3\\Task3.csproj|solutionrelative:task3\\task3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871BDBE1-0CFA-423C-96F8-E43EBE14A3D0}|Task3\\Task3.csproj|c:\\users\\alhof\\onedrive\\desktop\\depi\\c#\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871BDBE1-0CFA-423C-96F8-E43EBE14A3D0}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E94B43C-2813-4B03-83A7-32507B36055D}|Task2\\Task2.csproj|c:\\users\\alhof\\onedrive\\desktop\\depi\\c#\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E94B43C-2813-4B03-83A7-32507B36055D}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\alhof\\OneDrive\\Desktop\\DEPI\\C#\\Task4\\Student.cs",
+              "RelativeDocumentMoniker": "Task4\\Student.cs",
+              "ToolTip": "C:\\Users\\alhof\\OneDrive\\Desktop\\DEPI\\C#\\Task4\\Student.cs",
+              "RelativeToolTip": "Task4\\Student.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T13:16:01.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alhof\\OneDrive\\Desktop\\DEPI\\C#\\Task4\\Program.cs",
+              "RelativeDocumentMoniker": "Task4\\Program.cs",
+              "ToolTip": "C:\\Users\\alhof\\OneDrive\\Desktop\\DEPI\\C#\\Task4\\Program.cs",
+              "RelativeToolTip": "Task4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T13:15:08.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task3.csproj",
+              "DocumentMoniker": "C:\\Users\\alhof\\OneDrive\\Desktop\\DEPI\\C#\\Task3\\Task3.csproj",
+              "RelativeDocumentMoniker": "Task3\\Task3.csproj",
+              "ToolTip": "C:\\Users\\alhof\\OneDrive\\Desktop\\DEPI\\C#\\Task3\\Task3.csproj",
+              "RelativeToolTip": "Task3\\Task3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-01T12:00:42.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alhof\\OneDrive\\Desktop\\DEPI\\C#\\Task3\\Program.cs",
+              "RelativeDocumentMoniker": "Task3\\Program.cs",
+              "ToolTip": "C:\\Users\\alhof\\OneDrive\\Desktop\\DEPI\\C#\\Task3\\Program.cs",
+              "RelativeToolTip": "Task3\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T11:35:01.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alhof\\OneDrive\\Desktop\\DEPI\\C#\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Task2\\Program.cs",
+              "ToolTip": "C:\\Users\\alhof\\OneDrive\\Desktop\\DEPI\\C#\\Task2\\Program.cs",
+              "RelativeToolTip": "Task2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T11:34:11.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alhof\\OneDrive\\Desktop\\DEPI\\C#\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "C:\\Users\\alhof\\OneDrive\\Desktop\\DEPI\\C#\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T11:30:39.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
