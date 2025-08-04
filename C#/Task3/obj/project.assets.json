@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alhof\\OneDrive\\Desktop\\DEPI\\C#\\Task3\\Task3.csproj",
+      "projectUniqueName": "C:\\Users\\alhof\\OneDrive\\Desktop\\DEPI_Tasks\\C#\\Task3\\Task3.csproj",
       "projectName": "Task3",
-      "projectPath": "C:\\Users\\alhof\\OneDrive\\Desktop\\DEPI\\C#\\Task3\\Task3.csproj",
+      "projectPath": "C:\\Users\\alhof\\OneDrive\\Desktop\\DEPI_Tasks\\C#\\Task3\\Task3.csproj",
       "packagesPath": "C:\\Users\\alhof\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alhof\\OneDrive\\Desktop\\DEPI\\C#\\Task3\\obj\\",
+      "outputPath": "C:\\Users\\alhof\\OneDrive\\Desktop\\DEPI_Tasks\\C#\\Task3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
